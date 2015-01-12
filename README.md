@@ -8,3 +8,6 @@ function :
 3. If login a locked User , it will Prompt "the user is locked"
 4. The user name and password is stored in account.txt
 5. The lock user list is stored in lock.txt
+
+Development env:
+Eclipse + PyDev + Git
